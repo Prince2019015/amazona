@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Prince2019015/amazona/issues"
   },
-  "homepage": "https://github.com/Prince2019015/amazona#readme"
+  "homepage": "https://github.com/Prince2019015/amazona#readme",
+  "dependencies": {
+    "use-reducer-logger": "^1.0.2"
+  }
 }
