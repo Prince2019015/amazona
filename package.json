@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Prince2019015/amazona#readme",
   "dependencies": {
     "@paypal/react-paypal-js": "^8.1.3",
+    "react-dom": "^18.2.0",
     "use-reducer-logger": "^1.0.2"
   }
 }
